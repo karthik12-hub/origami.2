@@ -1,0 +1,27 @@
+h1{
+    color: rgb(255, 0, 0);
+}
+h2{
+    color: rgb(26, 54, 218);
+}
+
+
+.till {
+    text-align: center
+}
+.say{
+    text-align: center
+    
+}
+.karthik{
+    background-color: rgb(103, 180, 39);
+     display:flex;
+     flex-wrap: wrap;
+     justify-content: space-between;
+}
+.jio{
+    background-color: rgb(103, 180, 39);
+     display:flex;
+     flex-wrap: wrap;
+     justify-content: space-between;
+}
